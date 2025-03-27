@@ -62,23 +62,13 @@ emotion-detection-website/
 If you later want to use **Python (Flask/OpenCV Haar Cascade)**:  
 1. Add `app.py` for Flask backend.  
 2. Replace OpenCV.js with **Python OpenCV** for better accuracy.  
-3. Use WebSocket or HTTP streaming for real-time updates.  
+3. Use WebSocket or HTTP streaming for real-time updates.
 
-<div align="center">
-  <h2 style="font-size:3rem;">Our Contributors <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /></h2>
-  <!-- <h3>Thank you for contributing to our repository</h3> -->
-
-<a href="https://github.com/ak-0283/Minor-Project-4th-Sem./graphs/contributors">
-<img src="https://contributors-img.web.app/image?repo=ak-0283/Minor-Project-4th-Sem."/> </a>
-<p style="font-family:var(--ff-philosopher);font-size:3rem;"><b> Show some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /> by starring this awesome repository!
-
-
----
 
 ## 📜 License  
 MIT  
 
----
+
 
 ### Key Notes:
 ```
@@ -92,3 +82,10 @@ MIT
 3. **Demo GIF**:  
 - Add a `demo.gif` later to showcase real-time detection.  
 ```
+
+<div align="center">
+  <h2 style="font-size:3rem;">Our Contributors <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /></h2>
+  <!-- <h3>Thank you for contributing to our repository</h3> -->
+
+<a href="https://github.com/ak-0283/Minor-Project-4th-Sem./graphs/contributors">
+<img src="https://contributors-img.web.app/image?repo=ak-0283/Minor-Project-4th-Sem."/> </a>
