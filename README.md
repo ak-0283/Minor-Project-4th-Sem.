@@ -4,7 +4,6 @@ A **real-time emotion detection** web application that uses:
 - **OpenCV.js** 👁️ (or Python backend with Flask later) for face detection.  
 - **Haar Cascade** 🎨 for face and emotion recognition.  
 - **Tailwind CSS** ⚡ for styling.  
-- **Vanilla JavaScript** for webcam access and real-time processing.  
 
 ## Website Preview
 ![Image](https://github.com/user-attachments/assets/24668812-fd30-42a2-ae3e-ca290e303cea)   
@@ -17,9 +16,9 @@ A **real-time emotion detection** web application that uses:
 
 ## Technologies Used  
 🖥 **Frontend**:  
-- HTML5, Vanilla JavaScript  
-- [Tailwind CSS](https://tailwindcss.com/) (utility-first CSS framework)  
-- [OpenCV.js](https://docs.opencv.org/3.4/d5/d10/tutorial_js_root.html) (for browser-based face detection)  
+- HTML5, JavaScript  
+- Tailwind CSS
+- OpenCV.js
 
 🤖 **Computer Vision**:  
 - **Haar Cascade Classifiers** (`haarcascade_frontalface_default.xml`)  
@@ -84,11 +83,11 @@ MIT
 
 ### Key Notes:  
 1. **OpenCV.js vs Python OpenCV**:  
-   - If you’re using **OpenCV.js** (browser-based), mention it.  
-   - If you plan to switch to **Python + Flask**, note that Haar Cascades work better there.  
+- If you’re using **OpenCV.js** (browser-based), mention it.  
+- If you plan to switch to **Python + Flask**, note that Haar Cascades work better there.  
 
 2. **Haar Cascade Models**:  
-   - Include the `.xml` files in `/assets/models/`.  
+- Include the `.xml` files in `/assets/models/`.  
 
 3. **Demo GIF**:  
-   - Add a `demo.gif` later to showcase real-time detection.  
+- Add a `demo.gif` later to showcase real-time detection.  
