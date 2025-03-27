@@ -70,9 +70,9 @@ If you later want to use **Python (Flask/OpenCV Haar Cascade)**:
   <h3>Thank you for contributing to our repository</h3>
 
 <a href="https://github.com/ak-0283/Minor-Project-4th-Sem./graphs/contributors">
-<img src="https://contributors-img.web.app/image?repo=ak-0283/Minor-Project-4th-Sem."/>
-  
-  </a>
+<img src="https://contributors-img.web.app/image?repo=ak-0283/Minor-Project-4th-Sem."/> </a>
+
+---
 
 ## License  
 MIT  
