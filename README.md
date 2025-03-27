@@ -21,8 +21,7 @@ A **real-time emotion detection** web application that uses:
 - OpenCV.js
 
 🤖 **Computer Vision**:  
-- **Haar Cascade Classifiers** (`haarcascade_frontalface_default.xml`)  
-- (Optional) Emotion detection model (e.g., pre-trained CNN)  
+- **Haar Cascade Classifiers**
 
 ## 🚀 Setup & Run (Frontend-Only)  
 Since you're starting with just `index.html`, here’s how to test it:  
@@ -81,7 +80,8 @@ MIT
 
 ---
 
-### Key Notes:  
+### Key Notes:
+```
 1. **OpenCV.js vs Python OpenCV**:  
 - If you’re using **OpenCV.js** (browser-based), mention it.  
 - If you plan to switch to **Python + Flask**, note that Haar Cascades work better there.  
@@ -91,3 +91,4 @@ MIT
 
 3. **Demo GIF**:  
 - Add a `demo.gif` later to showcase real-time detection.  
+```
