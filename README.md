@@ -6,7 +6,7 @@ A **real-time emotion detection** web application that uses:
 - **Tailwind CSS** for styling.  
 - **Vanilla JavaScript** for webcam access and real-time processing.  
 
-![Demo Preview](https://via.placeholder.com/600x400?text=Emotion+Detection+Demo) *(Replace with actual screenshot later)*  
+![Demo Preview] (Screenshot 2025-03-27 082826.png)   
 
 ## Features  
 ✅ **Real-time face detection** (using Haar Cascade in OpenCV).  
