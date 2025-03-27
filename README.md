@@ -71,7 +71,7 @@ MIT
 
 
 ### Key Notes:
-```
+
 1. **OpenCV.js vs Python OpenCV**:  
 - If you’re using **OpenCV.js** (browser-based), mention it.  
 - If you plan to switch to **Python + Flask**, note that Haar Cascades work better there.  
@@ -81,7 +81,7 @@ MIT
 
 3. **Demo GIF**:  
 - Add a `demo.gif` later to showcase real-time detection.  
-```
+
 
 <div align="center">
   <h2 style="font-size:3rem;">Our Contributors <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /></h2>
