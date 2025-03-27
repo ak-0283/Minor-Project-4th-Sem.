@@ -66,7 +66,7 @@ If you later want to use **Python (Flask/OpenCV Haar Cascade)**:
 
 <div align="center">
   <h2 style="font-size:3rem;">Our Contributors <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /></h2>
-  <h3>Thank you for contributing to our repository</h3>
+  <!-- <h3>Thank you for contributing to our repository</h3> -->
 
 <a href="https://github.com/ak-0283/Minor-Project-4th-Sem./graphs/contributors">
 <img src="https://contributors-img.web.app/image?repo=ak-0283/Minor-Project-4th-Sem."/> </a>
