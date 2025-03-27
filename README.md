@@ -1,14 +1,15 @@
-# Emotion Detection Website  
+# 😊🎭 Emotion Detection Website  
 
 A **real-time emotion detection** web application that uses:  
-- **OpenCV.js** (or Python backend with Flask later) for face detection.  
-- **Haar Cascade** for face and emotion recognition.  
-- **Tailwind CSS** for styling.  
+- **OpenCV.js** 👁️ (or Python backend with Flask later) for face detection.  
+- **Haar Cascade** 🎨 for face and emotion recognition.  
+- **Tailwind CSS** ⚡ for styling.  
 - **Vanilla JavaScript** for webcam access and real-time processing.  
 
-![Demo Preview] (Screenshot 2025-03-27 082826.png)   
+## Website Preview
+![Image](https://github.com/user-attachments/assets/24668812-fd30-42a2-ae3e-ca290e303cea)   
 
-## Features  
+## ✨ Features  
 ✅ **Real-time face detection** (using Haar Cascade in OpenCV).  
 ✅ **Emotion prediction** (happy, sad, angry, neutral, etc.).  
 ✅ **Responsive UI** built with **Tailwind CSS**.  
@@ -24,7 +25,7 @@ A **real-time emotion detection** web application that uses:
 - **Haar Cascade Classifiers** (`haarcascade_frontalface_default.xml`)  
 - (Optional) Emotion detection model (e.g., pre-trained CNN)  
 
-## Setup & Run (Frontend-Only)  
+## 🚀 Setup & Run (Frontend-Only)  
 Since you're starting with just `index.html`, here’s how to test it:  
 
 1. **Clone the repo** (if applicable):  
@@ -52,14 +53,14 @@ Since you're starting with just `index.html`, here’s how to test it:
    - The browser will ask for camera permissions.  
    - Haar Cascade/OpenCV.js will process frames in real-time.  
 
-## Project Structure (Current)  
+## 📂 Project Structure (Current)  
 ```
 emotion-detection-website/
 ├── index.html            # Main HTML with Tailwind + JS
 └── README.md
 ```
 
-## Next Steps (Optional Backend)  
+## 🔜 Next Steps (Optional Backend)  
 If you later want to use **Python (Flask/OpenCV Haar Cascade)**:  
 1. Add `app.py` for Flask backend.  
 2. Replace OpenCV.js with **Python OpenCV** for better accuracy.  
@@ -71,10 +72,12 @@ If you later want to use **Python (Flask/OpenCV Haar Cascade)**:
 
 <a href="https://github.com/ak-0283/Minor-Project-4th-Sem./graphs/contributors">
 <img src="https://contributors-img.web.app/image?repo=ak-0283/Minor-Project-4th-Sem."/> </a>
+<p style="font-family:var(--ff-philosopher);font-size:3rem;"><b> Show some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /> by starring this awesome repository!
+
 
 ---
 
-## License  
+## 📜 License  
 MIT  
 
 ---
