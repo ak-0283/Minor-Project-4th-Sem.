@@ -1,7 +1,3 @@
-Here’s an updated `README.md` file tailored for your Emotion Detection website using **OpenCV, Haar Cascades, Tailwind CSS, and JavaScript** (without Flask/Django for now, since you've only created `index.html` so far).  
-
----
-
 # Emotion Detection Website  
 
 A **real-time emotion detection** web application that uses:  
@@ -87,5 +83,3 @@ MIT
 
 3. **Demo GIF**:  
    - Add a `demo.gif` later to showcase real-time detection.  
-
-Let me know if you want to adjust anything! 🚀
