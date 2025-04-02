@@ -606,7 +606,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-// line no 3028
   document.addEventListener('DOMContentLoaded', function() {
     // Form validation
     const contactForm = document.getElementById('contact-form');
